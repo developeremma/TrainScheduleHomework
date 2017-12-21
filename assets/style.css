@@ -1,0 +1,15 @@
+html {
+   font-family: Lato, GillSans, Calibri, Trebuchet, sans-serif;
+   background-image: url('../assets/train.jpg');
+ }
+
+ h1{
+   font-family: 'Amatic SC';
+   color: maroon;
+ }
+th{
+  font-weight: strong;
+  color: maroon;
+  font-family: 'Oswald', sans-serif;
+
+}
